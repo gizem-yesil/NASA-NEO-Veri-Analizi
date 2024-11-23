@@ -17,3 +17,5 @@ Proje aşağıdaki Python kütüphanelerini kullanmaktadır:
  #Projenin Amaci ve Yöntemi
 
  Projede, NASA'nın kayıt altına aldığı, Dünya yakınlarındaki gök cisimleri hakkındaki bazı nitelikler yer almaktadır. Analizin amacı, bu gök cisimlerinin Dünya'ya olan etkilerinin tespit edilmesinde bakılan parametreleri incelemek, tehlikeli-tehlikesiz olarak sınıflandırılmasında kullanılacak bir sınıflandırma ML modelinden önce veriyi , veri analizi teknikleriyle anlamaktır.
+
+Kaggle Linki: https://www.kaggle.com/code/gizemyesil/global-ai-hub-aygaz-veri-analizi-bootcamp
