@@ -5,7 +5,16 @@
 
 Bu proje, **Global AI Hub Aygaz Veri Analizi Bootcamp** kapsamında verilen veri seti üzerinde analiz yapmak amacıyla geliştirilmiştir. Projede Python ve popüler veri analizi kütüphaneleri kullanılarak, veri görselleştirme ve çıkarımlar elde etme işlemleri gerçekleştirilmiştir.
 
-# Kullanılan Teknolojiler
+#Proje Özeti
+
+-NASA NEO(Nearest Earth Objects) merkezi tarafından kaydedilen 90836 gök cismi hakkındaki bazı nitelikler incelenmiştir.
+-Analiz edilen veri setinde hicbir eksik deger (null) bulunmamaktadir.
+-Veriler, gök cisimlerinin Dünya'ya olan uzaklıkları, çapları, parlaklıkları, tehlikeli olup olmadıkları gibi özellikleri bulundurmaktadır.
+
+#Veriye Genel Bakış
+
+
+#Kullanılan Teknolojiler
 
 Proje aşağıdaki Python kütüphanelerini kullanmaktadır:
 
