@@ -20,10 +20,11 @@ Bu proje, **Global AI Hub Aygaz Veri Analizi Bootcamp** kapsamında verilen veri
 
 Proje aşağıdaki Python kütüphanelerini kullanmaktadır:
 
- **Numpy**: Matematiksel işlemler ve dizilerle çalışma.
- **Pandas**: Veri işleme ve analiz.
- **Matplotlib**: Veri görselleştirme.
- **Seaborn**: Gelişmiş görselleştirme.
+- **Numpy**: Matematiksel işlemler ve dizilerle çalışma.
+- **Pandas**: Veri işleme ve analiz.
+- **Matplotlib**: Veri görselleştirme.
+- **Seaborn**: Gelişmiş görselleştirme.
+
 
  #Projenin Amaci ve Yöntemi
 
